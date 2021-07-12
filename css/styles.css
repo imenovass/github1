@@ -172,3 +172,21 @@ text-align: center;
 .footer-icons{
   margin: 20px 10px;
 }
+
+
+
+
+
+/* Last section */
+#last{
+  padding: 7% 15%;
+  background-color: #ff4c68;
+  text-align: center;
+}
+.last-text{
+  color:#fff;
+  font-family: 'Montserrat-Black', sans-serif;
+  font-size:3.5rem;
+  line-height: 1.5;
+  font-weight:bold;
+}
